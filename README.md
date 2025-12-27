@@ -1,4 +1,4 @@
-#  StatCivic: Intelligent Grievance Redressal System
+#  StatCivic:A Citizen Centric Civic Issue Redressal System
 
 > **Bridging the gap between Citizens and Administration through AI-driven governance.**
 
